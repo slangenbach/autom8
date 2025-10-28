@@ -1,0 +1,18 @@
+{
+  "template": "https://github.com/slangenbach/cookiecutter-python-uv",
+  "commit": "2dc5d8c7875232759001f26e38f9fc1f9f84fba4",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "Autom8",
+      "project_description": "Where automation meets education",
+      "project_slug": "autom8",
+      "package_name": "autom8",
+      "author": "Stefan Langenbach",
+      "email": "stefan@langenbach.online",
+      "_template": "https://github.com/slangenbach/cookiecutter-python-uv",
+      "_commit": "2dc5d8c7875232759001f26e38f9fc1f9f84fba4"
+    }
+  },
+  "directory": null
+}
